@@ -9,7 +9,7 @@
 - 📗:green_heart: I'm a full-stack student at **[Trybe](https://www.betrybe.com/formacao)**
 -   :books: I'm currently learning  **Node** and **MongoDB** 
 - 📫 How to reach me: `rafael.pufal23@gmail.com`
-- My latest project **[Recipes App](https://recipes-app-iota.vercel.app/)** / **[Github Repository](https://github.com/rpufal/recipesAppGroup4)**
+-💻📱My latest project **[Recipes App](https://recipes-app-iota.vercel.app/)** / **[Github Repository](https://github.com/rpufal/recipesAppGroup4)**
 <!-- - :open_file_folder: Some of my projects **[here](https://github.com/LeonarDev/leonardev.github.io/tree/main/projects)** -->
 - :octocat: Visit my **[personal page](https://my-portfolio-kappa-nine.vercel.app/)** 
 
