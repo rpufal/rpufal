@@ -147,7 +147,8 @@ OUTDATED:
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rpufal&show_icons=true&theme=dracula&count_private=true&line_height=27) 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rpufal&show_icons=true&theme=dracula&count_private=true&line_height=27)
+<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpufal&show_icons=true&theme=dracula&count_private=true)
 
 > Written with [StackEdit](https://stackedit.io/).
