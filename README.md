@@ -5,9 +5,9 @@
 
 ### Hello there, I'm **Rafael!** 🤙
 
-- 💡 I'm a  **front-end developer**
+- 💡 I'm a  **full-stack developer**
 - 📗:green_heart: I'm a full-stack student at **[Trybe](https://www.betrybe.com/formacao)**
--   :books: I'm currently learning  **Node** and **MongoDB** 
+-   :books: I'm currently learning  **AWS** and **CI/CD** 
 - 📫 How to reach me: `rafael.pufal23@gmail.com`
 - 💻📱My latest project **[Recipes App](https://recipes-app-iota.vercel.app/)** / **[Github Repository](https://github.com/rpufal/recipesAppGroup4)**
 <!-- - :open_file_folder: Some of my projects **[here](https://github.com/LeonarDev/leonardev.github.io/tree/main/projects)** -->
