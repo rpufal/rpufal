@@ -5,7 +5,7 @@
 
 ### Hello there, I'm **Rafael!** 🤙
 
-- 💡 I'm a  **full-stack developer** at TOTVS
+- 💡 I'm a  **front-end developer** at ITClinical
 - 📗:green_heart: I'm also a full-stack student at **[Trybe](https://www.betrybe.com/formacao)**
 -   :books: I'm currently learning  **AWS** and **Angular** 
 - 📫 How to reach me: `rafael.pufal23@gmail.com`
