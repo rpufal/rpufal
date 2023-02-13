@@ -5,8 +5,8 @@
 
 ### Hello there, I'm **Rafael!** 🤙
 
-- 💡 I'm a  **front-end developer** at ITClinical
-- 📗:green_heart: I'm also a full-stack student at **[Trybe](https://www.betrybe.com/formacao)**
+- 💡 I'm a  **front-end developer** at SOLO
+- 📗:green_heart: I've graduated from **[Trybe](https://www.betrybe.com/formacao)**
 -   :books: I'm currently learning  **AWS** and **React Native** 
 - 📫 How to reach me: `rafael.pufal23@gmail.com`
 - 💻📱My latest project **[Recipes App](https://recipes-app-iota.vercel.app/)** / **[Github Repository](https://github.com/rpufal/recipesAppGroup4)**
