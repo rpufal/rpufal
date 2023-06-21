@@ -5,7 +5,7 @@
 
 ### Hello there, I'm **Rafael!** 🤙
 
-- 💡 I'm a  **front-end developer** at SOLO
+- 💡 I'm a  **fullstack developer** at SOLO
 - 📗:green_heart: I've graduated from **[Trybe](https://www.betrybe.com/formacao)**
 -   :books: I'm currently learning  **AWS** and **React Native** 
 - 📫 How to reach me: `rafael.pufal23@gmail.com`
