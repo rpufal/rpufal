@@ -9,7 +9,6 @@
 - 📗:green_heart: I've graduated from **[Trybe](https://www.betrybe.com/formacao)**
 -   :books: I'm currently learning  **AWS** and **React Native** 
 - 📫 How to reach me: `rafael.pufal23@gmail.com`
-- 💻📱My latest project **[Recipes App](https://recipes-app-iota.vercel.app/)** / **[Github Repository](https://github.com/rpufal/recipesAppGroup4)**
 <!-- - :open_file_folder: Some of my projects **[here](https://github.com/LeonarDev/leonardev.github.io/tree/main/projects)** -->
 <!-- - 🚧 Visit my **[personal page](https://my-portfolio-kappa-nine.vercel.app/)**  -->
 
